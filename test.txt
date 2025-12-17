@@ -1,11 +1,8 @@
 Line-1: Ankur
 -----
 Line-3: feature
-<<<<<<< HEAD
 ------
 Line-5: main
 Line-6: feature
-
-=======
 Line-4: feature
->>>>>>> parent of 758d044 (Feature 5th)
+
